@@ -1,0 +1,428 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\SynthesisAssignment\\SynthesisAssignment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectName": "BusinessLogicLayer",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\SynthesisAssignment\\SynthesisAssignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\SynthesisAssignment\\SynthesisAssignment.csproj",
+        "projectName": "SynthesisAssignment",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\SynthesisAssignment\\SynthesisAssignment.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\SynthesisAssignment\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Semester 2\\Syntesis Assignment\\synthesis-assignment-mihail-vasilev-s2-cb01\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

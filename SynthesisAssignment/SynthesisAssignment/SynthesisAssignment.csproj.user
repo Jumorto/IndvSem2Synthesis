@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\SynthesisAssignment\Properties\PublishProfiles\FolderProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TournamentEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TournamentResultsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

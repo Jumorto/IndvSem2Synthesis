@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\WebAppSynthesis\\WebAppSynthesis.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectName": "BusinessLogicLayer",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\WebAppSynthesis\\WebAppSynthesis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\WebAppSynthesis\\WebAppSynthesis.csproj",
+        "projectName": "WebAppSynthesis",
+        "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\WebAppSynthesis\\WebAppSynthesis.csproj",
+        "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\WebAppSynthesis\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              },
+              "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Misho\\Desktop\\Internship documents\\Git projects\\IndvSem2Synthesis\\SynthesisAssignmentFixed\\SynthesisAssignment\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

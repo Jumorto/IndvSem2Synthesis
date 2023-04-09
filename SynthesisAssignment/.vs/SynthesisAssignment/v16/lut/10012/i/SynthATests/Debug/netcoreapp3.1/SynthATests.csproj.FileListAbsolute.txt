@@ -1,0 +1,5 @@
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\.vs\SynthesisAssignment\v16\lut\0\i\SynthATests\Debug\netcoreapp3.1\SynthATests.csproj.AssemblyReference.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\.vs\SynthesisAssignment\v16\lut\0\i\SynthATests\Debug\netcoreapp3.1\SynthATests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\.vs\SynthesisAssignment\v16\lut\0\i\SynthATests\Debug\netcoreapp3.1\SynthATests.AssemblyInfoInputs.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\.vs\SynthesisAssignment\v16\lut\0\i\SynthATests\Debug\netcoreapp3.1\SynthATests.AssemblyInfo.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\.vs\SynthesisAssignment\v16\lut\0\i\SynthATests\Debug\netcoreapp3.1\SynthATests.dll

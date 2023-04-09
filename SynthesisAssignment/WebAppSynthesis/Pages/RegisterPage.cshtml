@@ -1,0 +1,53 @@
+﻿@page
+@model WebAppSynthesis.Pages.Shared.RegisterPageModel
+@{
+}
+
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<div class="container">
+    <div class="card-header align-content-center">
+        <div class="card-columns" style="text-align:left">
+            <b> Register</b>
+        </div>
+    </div>
+
+
+    <div class="card-body">
+        <div class="d-flex flex-column">
+            <form method="post" asp-page-handler="Register">
+                <div class="p-2">
+                    <p><b>Player Name*</b></p>
+                    <input asp-for="model => @Model.username" value="@Model.username" autofocus />
+                    <span class="alert-warning" asp-validation-for="model => @Model.username"></span>
+                </div>
+                <div class="p-2">
+                    <p><b>Email*</b></p>
+                    <input asp-for="model => @Model.email" value="@Model.email" />
+                    <span class="alert-warning" asp-validation-for="model => @Model.email"></span>
+                </div>
+                <div class="p-2">
+                    <p><b>Password* (min 6 characters)</b></p>
+                    <input  asp-for="model => @Model.password" value="@Model.password" />
+                    <span class="alert-warning" asp-validation-for="model => @Model.password"></span>
+                </div>
+                <div class="p-2">
+                    <p><b>Confirm password*</b></p>
+                    <input  asp-for="model => @Model.cnfpass" value="@Model.cnfpass" />
+                    <span class="alert-warning" asp-validation-for="model => @Model.cnfpass"></span>
+                </div>
+                <div class="p-2">
+
+                </div>
+                <div class="p-2">
+                    <button class="btn-info">
+                        Register and log in
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>    
+</div>
+

@@ -1,0 +1,80 @@
+﻿@page
+@model WebAppSynthesis.Pages.PlayerProfileModel
+@{
+    @using Models;
+}
+<div class="container">
+    <div class="card-header">
+        <div class="card-deck">
+            <h3> My Profile - Tournaments</h3>
+        </div>
+    </div>
+
+    <div class="card-body">
+
+        @if (Model.TournamentBoard != null && Model.TournamentBoard.Count != 0)
+        {
+            <table>
+                <tr>
+                    <th class="col-1"><span class="card-title">Rank          </span>   </th>
+                    <th class="col-6"><span class="card-title">Tournament    </span>   </th>
+                    <th class="col-2"><span class="card-title">Location      </span>   </th>
+                    <th class="col-2"><span class="card-title">Start Date    </span>   </th>
+                    <th class="col-2"><span class="card-title">End Date      </span>   </th>
+                </tr>
+                @foreach (Object[] result in Model.TournamentBoard)
+                {
+                    <tr>
+                        <td class="col-1">@result[0]</td>
+                        <td class="col-5">@result[1]</td>
+                        <td class="col-2">@result[2]</td>
+                        <td class="col-2">@result[3]</td>
+                        <td class="col-2">@result[4]</td>
+                    </tr>
+                    <tr>
+                        <td class="col-1 alert-info"><span class="font-italic"> Matches</span></td>
+                        <td class="col-12 alert-info" colspan="4">
+                            <div>
+                                @if (Model.MatchesList != null && Model.MatchesList.Count != 0)
+                                {                                   
+                                    <table>
+                                        <tr>
+                                            <th class="col-3"><span class="font-italic"> Player 1     </span>   </th>
+                                            <th class="col-3"><span class="font-italic"> Player 2     </span>   </th>
+                                            <th class="col-3"><span class="font-italic"> Match Start  </span>   </th>
+                                            <th class="col-3"><span class="font-italic"> Winner       </span>   </th>
+                                        </tr>
+                                        @foreach (Match m in Model.MatchesList)
+                                        {
+                                            @if (@m.IDTournament == (int)@result[5])
+                                            {
+                                                <tr>
+                                                    <td class="col-3">@m.Player1Name</td>
+                                                    <td class="col-3">@m.Player2Name</td>
+                                                    <td class="col-3">@m.MatchStart.Date.ToString("dd.MM.yyyy")</td>
+                                                    <td class="col-3">@m.WinnerName</td>
+                                                </tr>
+                                            }
+                                        }
+                                    </table>
+                                }
+                                else
+                                {
+                                    <span class="alert-info"> Schedule for this tournament has not been created yet.</span>
+                                }
+                            </div>
+                        </td>
+                    </tr>
+
+                }
+            </table>
+        }
+        else
+        {
+            <p><b>No Тournaments.....</b></p>
+        }
+
+
+    </div>
+
+</div>

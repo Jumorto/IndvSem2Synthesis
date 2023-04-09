@@ -1,0 +1,159 @@
+﻿@page
+@model WebAppSynthesis.Pages.TournamentPageModel
+@{
+    @using Models;
+}
+<div class="container">
+    <div class="card-header">
+
+        <div class="d-flex">
+            <div class="p-1">
+                <form method="post">
+                    @if (ViewData["CurrentEmail"] != null && Model.ObjT.RegisterDeadline >= DateTime.Now && Model.PlayersSignedIn < Model.ObjT.MaxPlayers && !Model.IsPlayerRegisterd)
+                    {
+                        <input type="hidden" name="idTournament" value="@Html.DisplayTextFor(model => Model.ObjT.ID)" />
+                        <button class="btn-success" asp-page-handler="SignUpForTournament" title="Sign in for tournament" style="width: 100px; height: 60px">
+                            Sign in
+                        </button>
+                    }
+
+                    @if (ViewData["CurrentEmail"] != null && Model.ObjT.RegisterDeadline >= DateTime.Now && Model.IsPlayerRegisterd)
+                    {
+                        <input type="hidden" name="idTournament" value="@Html.DisplayTextFor(model => Model.ObjT.ID)" />
+                        <button class="btn-secondary" asp-page-handler="DERegisterForTournament" title="Deregister from tournament" style="width:100px; height:60px">
+                            Deregister
+                        </button>
+                    }
+                </form>
+            </div>
+            <div class="p-4">
+                <div class="d-flex flex-column">
+                    <div>
+                        <b>Name:</b>
+                        @Model.ObjT.TournamentName
+                    </div>
+                    <div>
+                        <b>Location:</b>
+                        @Model.ObjT.TournamentLocation
+                    </div>
+                    <div>
+                        <b>Start:</b>
+                        @Model.ObjT.TournamentStart.Date.ToShortDateString()
+                    </div>
+                    <div>
+                        <b>End:</b>
+                        @Model.ObjT.TournamentEnd.Date.ToShortDateString()
+                    </div>
+                    <div>
+                        <b>Register Deadline:</b>
+                        @Model.ObjT.RegisterDeadline.Date.ToShortDateString()
+                    </div>
+                    <div>
+                        <b>Information:</b>
+                        @Model.ObjT.TournamentInfo
+                    </div>
+                    <div>
+                        <b>Total number of player registered:</b>
+                        @Model.PlayersSignedIn / @Model.ObjT.MaxPlayers
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-header  alert-success">
+        <div>
+            <b>Gold Winner:</b>
+            @if (@Model.ObjT.NameGoldWinner != null && @Model.ObjT.Gold != 0)
+            {
+                @Model.ObjT.NameGoldWinner
+            }
+            else
+            {
+                <span> No gold winner has been decided yet!</span>
+            }
+        </div>
+        <div>
+            <b>Silver Winner:</b>
+            @if (@Model.ObjT.NameSilverWinner != null && @Model.ObjT.Silver != 0)
+            {
+                @Model.ObjT.NameSilverWinner
+            }
+            else
+            {
+                <span> No silver winner has been decided yet!</span>
+            }
+        </div>
+        <div>
+            <b>Bronze Winner:</b>
+            @if (@Model.ObjT.NameBronzeWinner != null && @Model.ObjT.Bronze != 0)
+            {
+                @Model.ObjT.NameBronzeWinner
+            }
+            else
+            {
+                <span>No bronze winner has been decided yet!</span>
+            }
+
+        </div>
+    </div>
+
+    <div class="card-body">
+        @if (Model.Leaderboard != null && Model.Leaderboard.Count != 0)
+        {
+            <h2>Leaderboard</h2>
+            <table>
+                <tr>
+                    <th class="card-columns"><span class="card-title">Name         </span>   </th>
+                    <th class="card-columns"><span class="card-title">Victories    </span>   </th>
+                </tr>
+                @foreach (Object[] result in Model.Leaderboard)
+                {
+                    <tr class="align-items-md-center ">
+
+                        <td class="card-columns">@result[1]</td>
+                        <td class="card-columns">@result[2]</td>
+
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <span class="alert-info"> Leaderboard for this tournament has not been created yet.</span>
+        }
+    </div>
+
+
+    <div class="card-body">
+        @if (Model.MatchSchedule != null && Model.MatchSchedule.Count != 0)
+        {
+            <h2>Match schedule</h2>
+            <table>
+                <tr>
+                    <th class="card-columns"><span class="card-title"> Player 1     </span>   </th>
+                    <th class="card-columns"><span class="card-title"> Player 2     </span>   </th>
+                    <th class="card-columns"><span class="card-title"> Match Start  </span>   </th>
+                    <th class="card-columns"><span class="card-title"> Winner       </span>   </th>
+                </tr>
+                @foreach (Match m in Model.MatchSchedule)
+                {
+                    <tr>
+                        <td class="card-columns">@m.Player1Name</td>
+                        <td class="card-columns">@m.Player2Name</td>
+                        <td class="card-columns">@m.MatchStart.Date.ToString("dd.MM.yyyy")</td>
+                        <td class="card-columns">@m.WinnerName</td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <span class="alert-info"> Schedule for this tournament has not been created yet.</span>
+        }
+    </div>
+</div>
+
+
+
+

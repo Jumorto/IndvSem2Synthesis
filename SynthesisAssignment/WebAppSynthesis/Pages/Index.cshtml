@@ -1,0 +1,90 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="container">
+    <div class="card-header">
+        <form method="post">
+            <div class="d-flex flex-row">
+                <div class="p-2">
+                    <b>Name </b>
+                    <input name="tournamentName" value="@Model.TournamentName" autofocus />
+                </div>
+                <div class="p-2">
+                    <b>Location:</b>
+                    <input name="tournamentLocation" value="@Model.TournamentLocation" />
+                </div>
+            </div>
+            <div class="d-flex flex-column">
+                <div class="p-2">
+                    <button class="btn-success" asp-page-handler="PastTournaments" title="Past Tournaments">
+                        Past Tournaments
+                    </button>
+
+                    <button class="btn-success" asp-page-handler="CurrentTournaments" title="Current Tournaments">
+                        Current Tournaments
+                    </button>
+
+                    <button class="btn-success" asp-page-handler="UpcomingTournaments" title="Upcoming Tournaments">
+                        Upcoming Tournaments
+                    </button>
+                    <span class="alert-info">     @Model.Message </span>
+                </div>
+                <div class="p-2">
+                    <b>Tournaments Shown: @Model.ListShown</b>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="card-body">
+        @if (@Model.TournamentsListView != null)
+        {
+            @foreach (var item in @Model.TournamentsListView)
+            {
+
+                <div class="d-flex">
+                    <div class="p-1">
+                        <form method="post">
+                            <input type="hidden" name="idTournament" value="@Html.DisplayTextFor(model => item.ID)" />
+                            <button class="btn-info" asp-page-handler="MoreInfo" title="More info about tournament" style="width:90px;">
+                                More Info
+                            </button>
+                        </form>
+                    </div>
+                    <div class="p-4">
+                        <div class="d-flex flex-column">
+                            <div>
+                                <b>Name:</b>
+                                @Html.DisplayTextFor(model => item.TournamentName)
+                            </div>
+                            <div>
+                                <b>Location:</b>
+                                @Html.DisplayTextFor(model => item.TournamentLocation)
+                            </div>
+                            <div>
+                                <b>Start:</b>
+                                @Html.DisplayFor(model => item.TournamentStart)
+                            </div>
+                            <div>
+                                <b>End:</b>
+                                @Html.DisplayFor(model => item.TournamentEnd)
+                            </div>
+                            <div>
+                                <b>Register Deadline:</b>
+                                @Html.DisplayFor(model => item.RegisterDeadline)
+                            </div>
+                            <div>
+                                <b>Information:</b>
+                                @Html.DisplayTextFor(model => item.TournamentInfo)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

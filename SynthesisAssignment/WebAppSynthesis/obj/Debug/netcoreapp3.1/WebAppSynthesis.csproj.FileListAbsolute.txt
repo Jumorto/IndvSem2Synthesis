@@ -1,0 +1,125 @@
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.exe
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.deps.json
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.runtimeconfig.json
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.runtimeconfig.dev.json
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.Views.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.Views.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.csproj.AssemblyReference.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.AssemblyInfoInputs.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.AssemblyInfo.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.csproj.CoreCompileInputs.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorAssemblyInfo.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorAssemblyInfo.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\staticwebassets\WebAppSynthesis.StaticWebAssets.Manifest.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\staticwebassets\WebAppSynthesis.StaticWebAssets.xml
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAppSynthesis.styles.css
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.TagHelpers.input.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.TagHelpers.output.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorCoreGenerate.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorTargetAssemblyInfo.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorTargetAssemblyInfo.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.Views.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.genruntimeconfig.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.csproj.CopyComplete
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\LoginPage.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\RegisterPage.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\TournamentPage.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\AccountDetails.cshtml.g.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\PlayerProfile.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.csproj.AssemblyReference.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.AssemblyInfoInputs.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.AssemblyInfo.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.csproj.CoreCompileInputs.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorAssemblyInfo.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorAssemblyInfo.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.StaticWebAssets.xml
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.exe
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.deps.json
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.runtimeconfig.json
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.runtimeconfig.dev.json
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.Views.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\WebAppSynthesis.Views.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\staticwebassets\WebAppSynthesis.StaticWebAssets.Manifest.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.TagHelpers.input.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.TagHelpers.output.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorCoreGenerate.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\AccountDetails.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\LoginPage.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\PlayerProfile.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\RegisterPage.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\TournamentPage.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorTargetAssemblyInfo.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.RazorTargetAssemblyInfo.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.Views.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.csproj.CopyComplete
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\WebAppSynthesis\obj\Debug\netcoreapp3.1\WebAppSynthesis.genruntimeconfig.cache

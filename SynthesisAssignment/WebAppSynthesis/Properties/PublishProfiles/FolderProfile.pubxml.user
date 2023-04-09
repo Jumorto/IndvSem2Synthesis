@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\WebAppSynthesis\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-06-09T18:50:52.2464160Z;True|2022-06-09T20:38:56.5186554+02:00;True|2022-06-09T11:27:32.1838801+02:00;True|2022-06-09T11:01:27.4063544+02:00;</History>
+  </PropertyGroup>
+</Project>

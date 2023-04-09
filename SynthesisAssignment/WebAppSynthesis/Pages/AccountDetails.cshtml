@@ -1,0 +1,60 @@
+﻿@page
+@model WebAppSynthesis.Pages.AccountDetailsModel
+@{
+}
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<div class="container">
+    <div class="card-header align-content-center">
+        <div class="d-flex flex-row">
+            <div class="card-columns" style="text-align:left">
+                <b>Account Details </b>
+            </div>
+            <div class="card-columns style=" text-align:left"">
+                <b>Name:</b>@Model.ObjPlayer.Username
+            </div>
+            <div class="card-columns style=" text-align:left"">
+                <b>Email:</b>@Model.ObjPlayer.Email
+            </div>
+        </div>
+    </div>
+
+
+    <div class="card-body">
+
+        <form method="post">
+
+            <div class="d-flex flex-column">
+                <div class="p-2">
+                    <input type="hidden" name="idUser" value="@Html.DisplayTextFor(model => Model.ObjPlayer.ID)" />
+                    <h2 style="font-style: italic">Change password?</h2>
+                </div>
+                <div class="p-2">
+                    <p><b>Previous password*</b></p>
+                    <input asp-for="model => @Model.PrevPassword" value="@Model.PrevPassword" autofocus />
+                    <span class="alert-warning" asp-validation-for="model => @Model.PrevPassword"></span>
+                </div>
+                <div class="p-2">
+                    <p><b>New password*</b></p>
+                    <input asp-for="model => @Model.NewPassword" value="@Model.NewPassword" />
+                    <span class="alert-warning" asp-validation-for="model => @Model.NewPassword"></span>
+                </div>
+                <div class="p-2">
+                    <p><b>Repeat new password*</b></p>
+                    <input asp-for="model => @Model.Cnfpass" value="@Model.Cnfpass" />
+                    <span class="alert-warning" asp-validation-for="model => @Model.Cnfpass"></span>
+                </div>
+                <div class="p-2">
+                    <button class="btn-success" asp-page-handler="Confirm">
+                        Confirm
+                    </button>
+                </div>
+                <div class="p-2">
+                    <span class="alert-info">@Model.Message</span>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

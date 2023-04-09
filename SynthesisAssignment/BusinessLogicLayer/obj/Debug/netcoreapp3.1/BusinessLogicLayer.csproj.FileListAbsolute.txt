@@ -1,0 +1,34 @@
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\rosi\source\repos\Mihail\SynthesisAssignment\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb

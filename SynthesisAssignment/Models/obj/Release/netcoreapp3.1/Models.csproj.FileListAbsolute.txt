@@ -1,0 +1,10 @@
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\bin\Release\netcoreapp3.1\Models.deps.json
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\bin\Release\netcoreapp3.1\Models.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\bin\Release\netcoreapp3.1\Models.pdb
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\obj\Release\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\obj\Release\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\obj\Release\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\obj\Release\netcoreapp3.1\Models.dll
+C:\Users\Misho\Desktop\Semester 2\Syntesis Assignment\synthesis-assignment-mihail-vasilev-s2-cb01\SynthesisAssignment\Models\obj\Release\netcoreapp3.1\Models.pdb
